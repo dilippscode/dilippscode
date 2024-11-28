@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dilippscode
-- 👀 I’m interested in artificial intelligence and machine learning
+- 👀 I’m interested in web designing and development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 you can find me on linkedin, hackerrank and github
